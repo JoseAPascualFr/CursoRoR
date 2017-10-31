@@ -1,2 +1,0 @@
-# CursoRoR
-Curso RoR
